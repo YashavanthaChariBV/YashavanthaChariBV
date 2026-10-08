@@ -31,17 +31,17 @@ A personal portfolio website showcasing my skills, projects, education, and deve
 
 Programming Languages
 
-- ☕ Java
-- 🐍 Python
-- 💙 Kotlin
+- Java
+- Python
+- Kotlin
 
 Web Development
 
-- ⚛️ React.js
+-  React.js
 
 Database
 
-- 🗄️ Oracle
+- Oracle
 
 Areas of Interest
 
